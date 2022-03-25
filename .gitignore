@@ -1,0 +1,17 @@
+kardiostimulatory/node_modules/
+kardiostimulatory/data/
+kardiostimulatory/external-modules/
+kardiostimulatory/package-lock.json
+kardiostimulatory/logs/log.log
+
+client/node_modules/
+client/package-lock.json
+client/dist
+
+prototype/node_modules/
+prototype/package-lock.json
+prototype/dist
+
+prototype2/node_modules/
+prototype2/package-lock.json
+prototype2/dist

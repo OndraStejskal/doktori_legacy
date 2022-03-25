@@ -1,0 +1,19 @@
+{
+  "name": "kardiostimulatory",
+  "version": "1.0.0",
+  "description": "- Ing. Zdeňka Fingrova PhD. : +420 608 308 559, zdenka.fingrova@vfn.cz, zdenka.fingrova@eehealth.cz\r - Ing. Bárta (Boston) : +420 727 891 037 \r - Ing Michal Zeman (Medtronic): michal.zeman@medtronic.com",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VDT-Technology-a-s/kardiostimulatory.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/VDT-Technology-a-s/kardiostimulatory/issues"
+  },
+  "homepage": "https://github.com/VDT-Technology-a-s/kardiostimulatory#readme"
+}

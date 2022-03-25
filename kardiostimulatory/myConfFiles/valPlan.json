@@ -1,0 +1,16 @@
+{
+    "certificatesPath": "certificates/vpapp_credentials.json",
+    "tsAspectName": "kardioPlainAspect",
+    "assetType": "vdtczvp.kardio_plain_v2",
+    "assetParentId": "4dab43fec9424041b18418fb336a848b",
+    "limitedPatients": false,
+    "events": {
+        "eventIds": {
+            "MDC0IDC0STAT0EPISODE0V2": "20cf4ffe-4101-42cd-86cc-722e362f8eb1",
+            "MDC0IDC0EPISODE0V2": "8e8eb1fa-1972-43de-aeed-385882762cf1",
+            "BIO0REQUEST0HM0NOTIFICATION0V2": "cc82a067-95c3-4fe4-8fc0-0d2fe4aa7191",
+            "BIO0IDC0STAT0EPISODE0V2": "e3df05c1-430f-40bb-b041-7509b4581425",
+            "MDC0IDC0LEAD0V2": "f7db628b-d2bb-4972-ac3c-7c564dc073ca"
+        }
+    }
+}

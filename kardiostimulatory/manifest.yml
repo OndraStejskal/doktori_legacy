@@ -1,0 +1,9 @@
+---
+applications:
+- name: kardiostimulatory
+  memory: 32M
+  disk_quota: 512MB
+  instances: 1
+  random-route: true
+  buildpacks:
+  - nodejs_buildpack
